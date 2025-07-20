@@ -21,23 +21,6 @@ FastAPI + MongoDB ecommerce backend built for HROne Backend Intern Task.
 
 ---
 
-## 🧱 Project Structure
-
-ecommerce-backend/
-├── app/
-│ ├── main.py
-│ ├── database.py
-│ ├── config.py
-│ ├── routes/
-│ │ └── api.py
-│ └── schemas/
-│ └── models.py
-├── .env # DO NOT COMMIT
-├── .gitignore
-├── requirements.txt
-└── README.md
-
-
 ---
 
 ## 🚀 API Endpoints
